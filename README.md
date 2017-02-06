@@ -6,7 +6,13 @@ The official itsN1X about web location.- 
  # 2 As a [Student](./Home/Scholastics/README.md )
  # 3 As a [Professional](./Home/Professional/README.md )
  # 4 As a [Dreamer](./Home/Dreamer/README.md )
- # 1 As a [Social sapien](./Home/Public/README.md )
+ # 5 As a [Social sapien](./Home/Public/README.md )
+ #  6 Blog
+ #    Privacy Policy
+ #    Contribute
+ 
+ ----
+ 
  
  # itsN1X
  (X
